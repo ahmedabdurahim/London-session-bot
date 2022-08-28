@@ -1,5 +1,5 @@
 #property copyright   ""
-#property link        "https://fxdreema.com"
+#property link        ""
 #property description ""
 #property version     "1.0"
 #property strict
